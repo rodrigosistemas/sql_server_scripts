@@ -94,7 +94,6 @@ FROM [SchemaName].[TableA] a
 JOIN [SchemaName].[TableB] b ON a.[JoinColumn] = b.[JoinColumn];
 ```
 
-```markdown
 # SQL Server Data Analysis Commands
 
 This section includes SQL Server commands that are particularly useful for data analysis, allowing you to summarize, aggregate, and manipulate data effectively.
@@ -105,7 +104,6 @@ This section includes SQL Server commands that are particularly useful for data 
 sql
 SELECT SUM([ColumnName]) AS TotalSum 
 FROM [SchemaName].[TableName];
-```
 
 ### Calculate the average value of a column
 ```sql
