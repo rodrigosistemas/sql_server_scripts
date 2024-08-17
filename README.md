@@ -4,7 +4,7 @@
 This repository contains a collection of basic and useful SQL Server commands to help you manage databases effectively.
 
 ## List all tables from a database
-```sql
+sql
 SELECT name 
 FROM sys.tables;
 ```
@@ -103,7 +103,7 @@ This section includes SQL Server commands that are particularly useful for data 
 ## Aggregate Functions
 
 ### Sum the values of a column
-```sql
+sql
 SELECT SUM([ColumnName]) AS TotalSum 
 FROM [SchemaName].[TableName];
 ```
