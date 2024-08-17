@@ -1,4 +1,3 @@
-```markdown
 # SQL Server Useful Commands
 
 This repository contains a collection of basic and useful SQL Server commands to help you manage databases effectively.
@@ -7,7 +6,6 @@ This repository contains a collection of basic and useful SQL Server commands to
 ```sql
 SELECT name 
 FROM sys.tables;
-```
 ```
 
 ## List all database tables with additional features
