@@ -8,6 +8,7 @@ This repository contains a collection of basic and useful SQL Server commands to
 SELECT name 
 FROM sys.tables;
 ```
+```
 
 ## List all database tables with additional features
 ```sql
